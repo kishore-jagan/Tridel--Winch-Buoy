@@ -1,0 +1,6 @@
+@media all and (max-width:480px){
+    .mobile-block{
+        width: 100%;
+        display: block;
+    }
+}
